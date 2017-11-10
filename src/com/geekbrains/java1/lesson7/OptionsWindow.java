@@ -1,4 +1,4 @@
-package ru.geekbrains.java.lesson_seven;
+package com.geekbrains.java1.lesson7;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
