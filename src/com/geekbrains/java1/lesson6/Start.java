@@ -21,9 +21,9 @@ public class Start {
 
 //            fileModifier.readDirectory("./resources");
 
-            fileSB = fileModifier.readAllFiles(fileModifier.readDirectory(dirName));
-            keyExist = fileModifier.isContains(fileSB, key)?" exist ":" does not exist ";
-            System.out.println("Key word " + key + keyExist + "in file");
+//            fileSB = fileModifier.readAllFiles(fileModifier.readDirectory(dirName));
+//            keyExist = fileModifier.isContains(fileSB, key)?" exist ":" does not exist ";
+//            System.out.println("Key word " + key + keyExist + "in file");
 
         }catch (FileNotFoundException e){
             e.printStackTrace();
